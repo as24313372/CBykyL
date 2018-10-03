@@ -8,7 +8,7 @@ int main(void) {
 		if(i%2==0)
 			count+=i;
 	}
-	printf("Á`¼Æ¬°%d\n",count);
+	printf("ç¸½æ•¸ç‚ºÂ°%d\n",count);
 	system("pause");
 	return 0;
 }
